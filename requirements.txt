@@ -3,7 +3,7 @@ astroid==1.5.3
 Babel==2.5.0
 billiard==3.5.0.3
 cairocffi==0.8.0
-CairoSVG==2.0.3
+CairoSVG==2.5.1
 celery==4.1.0
 certifi==2017.7.27.1
 cffi==1.10.0
